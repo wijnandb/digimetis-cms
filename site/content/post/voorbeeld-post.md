@@ -2,9 +2,8 @@
 title: Artikeltje
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  Dit is een los artikel, een losse post. En je leest hier de inleiding. Het is mogelijk om tags toe te voegen aan een artikel.
+tags: voorbeeld, markdown, html, md
 image: /img/blog-chemex.jpg
 ---
 
@@ -24,6 +23,8 @@ Instagram image
 {{< instagram BWNjjyYFxVx >}}
 
 Youtube video
-
 {{ < youtube NjfMrnLm5yE > }}
+
+En een tweet:
+{{< tweet 877500564405444608 >}}
 

@@ -1,11 +1,13 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/android-chrome-512x512.png
 contact_entries:
   - heading: Adres
-    text: "Keyserswey 6, 2201 CW Noordwijk"
+    text: 'Keyserswey 6, 2201 CW Noordwijk'
   - heading: Werktijden
-    text: maandag t/m vrijdag van 08:30 - 17:30
+    text: |-
+      maandag t/m vrijdag 
+      van 08:30 - 17:30
 ---
 
 Wil je weten wat we voor je kunnen betekenen? Of ben je nieuwsgierig naar de mogelijkheden die 

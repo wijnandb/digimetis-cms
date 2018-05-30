@@ -3,7 +3,7 @@ title: Digitale geletterdheid
 image: /img/jakub-gorajek-133566-unsplash.jpg
 values:
   - heading: Digimetis
-    imageUrl: ''
+    imageUrl: /img/cel-lisboa-73969-unsplash.jpg
     text: >
       Onze samenleving ondergaat een digitale transformatie en onze kinderen
       willen we daar zo goed mogelijk op voorbereiden. Daarom staat in steeds

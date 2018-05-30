@@ -23,7 +23,7 @@ Instagram image
 {{< instagram BWNjjyYFxVx >}}
 
 Youtube video
-{{ < youtube NjfMrnLm5yE > }}
+{{< youtube NjfMrnLm5yE >}}
 
 En een tweet:
 {{< tweet 877500564405444608 >}}

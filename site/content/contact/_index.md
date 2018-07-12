@@ -1,7 +1,6 @@
 ---
 title: Contact
 logo: /img/rawpixel-463437-unsplash.jpg
-contact_entries: []
 ---
 Wilt u binnen uw schoolorganisatie ook aan de slag met digitale geletterdheid? Of bent u al begonnen en wilt u verder verdiepen en verbreden?
 

@@ -7,7 +7,7 @@ description: >-
   informatiemaatschappij. 
 image: /img/rawpixel-594848-unsplash.jpg
 ---
-Volgens de Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) behoort digitale geletterdheid tot de basisvaardigheden van de ontwikkelde mens in de 21ste eeuw. Het is een voorwaarde om te kunnen functioneren in de informatiemaatschappij. Digitale geletterdheid vraagt, net als taalbeheersing en rekenvaardigheid, om een vormingstraject dat iedereen gedurende langere tijd moet doorlopen. Het onderwerp hoort daarom in het onderwijs thuis. 
+<p style="text-align:justify">Volgens de Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) behoort digitale geletterdheid tot de basisvaardigheden van de ontwikkelde mens in de 21ste eeuw. Het is een voorwaarde om te kunnen functioneren in de informatiemaatschappij. Digitale geletterdheid vraagt, net als taalbeheersing en rekenvaardigheid, om een vormingstraject dat iedereen gedurende langere tijd moet doorlopen. Het onderwerp hoort daarom in het onderwijs thuis. 
 
 KNAW</br>
 [Digitale geletterdheid in het onderwijs](https://www.knaw.nl/nl/actueel/publicaties/digitale-geletterdheid-in-het-voortgezet-onderwijs) 
@@ -35,6 +35,6 @@ Samenwerkingsverband met als doel om belemmeringen weg te nemen, zodat ict nog s
 [ECP: platform voor de informatiesamenleving](https://ecp.nl/20bouwstenen/) 
 
 Sommige landen zijn al heel ver op het gebied van digitalisering, zoals [bijvoorbeeld Estland](https://nos.nl/nieuwsuur/artikel/2188442-een-volledig-digitale-samenleving-in-estland-kan-het.html)
-
+</p>
 
 
